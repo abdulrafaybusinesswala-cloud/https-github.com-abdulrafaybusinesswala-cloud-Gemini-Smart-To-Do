@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smart To-Do",
+  "description": "A modern, intelligent to-do list application powered by React and Gemini. Features task management with AI-assisted task breakdown into actionable subtasks.",
+  "requestFramePermissions": []
+}
